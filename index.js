@@ -1,4 +1,3 @@
-localStorage.clear();
 let userForm = document.getElementById("user-form");
 
 const saveUserForm = (event) => {
